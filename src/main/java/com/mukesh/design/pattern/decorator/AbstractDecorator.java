@@ -1,4 +1,4 @@
-package com.mukesh.design.pattern;
+package com.mukesh.design.pattern.decorator;
 
 abstract class AbstractDecorator implements Member{
 
